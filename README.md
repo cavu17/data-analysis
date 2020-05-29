@@ -1,4 +1,4 @@
 # Data Analysis
 Contains notebooks with data analysis with the following subjects:
-- MTA
-- Advertising cost/spend
+- MTA (python)
+- Advertising cost/spend (python)
